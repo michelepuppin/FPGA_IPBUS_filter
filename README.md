@@ -1,13 +1,5 @@
 # FIR filter co-processor in FPGA with IPbus protocol
 
-<p align="center">
-    <img src="wavedrom.png" alt="Drawing" style="width: 500px"/>
-</p>
-
-
-
-
-
 ## Authors
 
 * [**Rocco Ardino**](https://github.com/RoccoA97) (University of Padua)
