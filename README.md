@@ -1,7 +1,7 @@
 # FIR filter co-processor in FPGA with IPbus protocol
 
 <p align="center">
-    <img src="./wavedrom.png" alt="Drawing" style="width: 500px"/>
+    <img src="wavedrom.png" alt="Drawing" style="width: 500px"/>
 </p>
 
 
